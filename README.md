@@ -77,7 +77,7 @@
 
         // Data for the game: objects with id, imageUrl, and definition
         const gameData = [
-            { id: '1', imageUrl: 'https://www.google.com/search?sca_esv=33159bfb7cb1c3ec&rlz=1C1ONGR_enIL1068IL1068&sxsrf=AE3TifOdyM_2RzX0qLg_qGOMRU-zjnMMEg:1750430855833&q=lizard&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIemkjk18Cn72Gp24fGkjjh6xc8y8oU3IJovU34XDyOFvE0X8cOr8Z_8IAmr4gJetqjLcq9TS-FbodE2o26UfJ0smxVEOKA8L3Fu9P36lGwCBsf06KzS0kHnk8m7Hgh5T3l-iPEn3NpJVgkpjbnn0UApEOto-FYKf3xCDNXSxbk1tqSsIl7w&sa=X&ved=2ahUKEwiztfaKn4COAxUU9wIHHbIWGEMQtKgLKAF6BAgUEAE&biw=1440&bih=731&dpr=2', definition: 'שנונית החולות' },
+            { id: '1', imageUrl: 'https://ca-times.brightspotcdn.com/dims4/default/eed4530/2147483647/strip/true/crop/2400x2400+400+0/resize/2000x2000!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc4%2F22%2F5be9453e43528d589b18f3c2513f%2F53686095888-868c194637-o-1.jpg', definition: 'שנונית החולות' },
             { id: '2', imageUrl: 'https://placehold.co/150x150/33FF57/FFFFFF?text=Tree', definition: 'A tall plant with a woody stem, branches, and leaves, typically perennial.' },
             { id: '3', imageUrl: 'https://placehold.co/150x150/5733FF/FFFFFF?text=Book', definition: 'A written or printed work consisting of pages glued or sewn together along one side and bound in covers.' },
             { id: '4', imageUrl: 'https://placehold.co/150x150/FF33A8/FFFFFF?text=Sun', definition: 'The star that the Earth orbits, providing light and heat to our planet.' },
