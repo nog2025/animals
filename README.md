@@ -77,7 +77,7 @@
 
         // Data for the game: objects with id, imageUrl, and definition
         const gameData = [
-            { id: '1', imageUrl: 'https://placehold.co/150x150/FF5733/FFFFFF?text=Lizard', definition: 'שנונית החולות' },
+            { id: '1', imageUrl: '[https://placehold.co/150x150/FF5733/FFFFFF?text=Lizard](https://redlist.parks.org.il/uploads/reptilia/biology/acanthodactylus-scutellatus_image-2_6gPVmzA.png)', definition: 'שנונית החולות' },
             { id: '2', imageUrl: 'https://placehold.co/150x150/33FF57/FFFFFF?text=Tree', definition: 'A tall plant with a woody stem, branches, and leaves, typically perennial.' },
             { id: '3', imageUrl: 'https://placehold.co/150x150/5733FF/FFFFFF?text=Book', definition: 'A written or printed work consisting of pages glued or sewn together along one side and bound in covers.' },
             { id: '4', imageUrl: 'https://placehold.co/150x150/FF33A8/FFFFFF?text=Sun', definition: 'The star that the Earth orbits, providing light and heat to our planet.' },
